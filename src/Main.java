@@ -8,4 +8,9 @@ public class Main {
                 " Where do you want to start?");
 
     }
+<<<<<<< HEAD
 } // hola mi nombre es Miles Morales
+=======
+
+} // Probando si ambas están sincronizadas
+>>>>>>> ian
