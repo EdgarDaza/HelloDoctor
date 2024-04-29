@@ -9,8 +9,4 @@ public class Main {
 
     }
 
-} // esta es la branch de edgar 
-
-//nO ME GUSTÓ TU CÓDIGO 
-
-//ESTO ES UN MERGE
+} // Probando si ambas están sincronizadas
